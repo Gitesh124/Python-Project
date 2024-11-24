@@ -30,8 +30,3 @@ messagebox.showwarning() is used to warn users if no task is selected or if the 
 messagebox.askyesno() prompts the user for confirmation before clearing all tasks.
 
 
-
-![gui](https://github.com/user-attachments/assets/e4cf47fd-e27a-4e35-94cf-11efff841010)
-![adding task](https://github.com/user-attachments/assets/b0ec57f7-e105-4fe3-a32b-90399f2865d3)
-
-

@@ -14,4 +14,3 @@ Error Handling:
   Ensures the password length is at least 4 to accommodate one character from each category.
 
 
-![Screenshot 2024-11-24 200145](https://github.com/user-attachments/assets/9ddc93da-6c7d-4661-9a8d-006cd45a2271)
